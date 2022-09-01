@@ -2,10 +2,12 @@
 I'm a software developer based in Viet Nam. Now, I live in Ho Chi Minh city and work there. I am a full-stack javascript developer. My fourite framework is ExpressJS and ReactJS. You can find me on Linkedin [@vtanh1905](https://www.linkedin.com/in/vtanh1905)
 
 ## 👇 &nbsp;Work Experience
-Company       | Name
+Company                                                                                                                 | Name
 ------------- | -------------
-![tải xuống](https://user-images.githubusercontent.com/49771724/187824613-65d734b8-530b-4b83-bf62-546cd436a2b7.png) | Content Cell
-Content Cell  | Content Cell
+![tải xuống](https://user-images.githubusercontent.com/49771724/187824613-65d734b8-530b-4b83-bf62-546cd436a2b7.png)     | Nashtech
+![tải xuống (1)](https://user-images.githubusercontent.com/49771724/187824778-c40cbbd7-4e5d-4a54-ace5-b7835e36e8f9.png) | KMS Technology
+![tải xuống (3)](https://user-images.githubusercontent.com/49771724/187825014-4247b01d-e104-42be-a1ac-2a38c207dcd4.png) | Acexis Company
+![tải xuống (2)](https://user-images.githubusercontent.com/49771724/187824908-38f2c171-2f40-4969-be75-a63a95e1600d.png) | FPT Software
 
 Here are some ideas to get you started:
 
