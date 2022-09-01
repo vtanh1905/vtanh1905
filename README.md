@@ -1,7 +1,11 @@
-### Hi there 👋
+# 👋 &nbsp;Hi there
+I'm a software developer based in Viet Nam. Now, I live in Ho Chi Minh city and work there. I am a full-stack javascript developer. My fourite framework is ExpressJS and ReactJS. You can find me on Linkedin [@vtanh1905](https://www.linkedin.com/in/vtanh1905)
 
-
-**vtanh1905/vtanh1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👇 &nbsp;Work Experience
+Company       | Name
+------------- | -------------
+![tải xuống](https://user-images.githubusercontent.com/49771724/187824613-65d734b8-530b-4b83-bf62-546cd436a2b7.png) | Content Cell
+Content Cell  | Content Cell
 
 Here are some ideas to get you started:
 
